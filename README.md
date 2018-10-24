@@ -1,6 +1,6 @@
 # Pumpkin
 
-## 環境
+## 開発環境
 VSCode + PlatformIO IDE で ビルドできる  
 ※ Arduino IDE よりも便利なのでチャレンジするといいです。
 
